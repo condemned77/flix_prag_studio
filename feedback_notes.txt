@@ -1,0 +1,4 @@
+On exercise 3, I accidentally created a ViewController that was called movie and not movies. How do I remove it
+since multiple files are generated via the rails generate controller command.
+I may actually remove every single one by hand, but it would be nice if there is a command for that.
+I don't as of writing this feedback and I have to search on google I guess.
